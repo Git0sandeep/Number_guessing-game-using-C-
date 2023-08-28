@@ -1,1 +1,1 @@
-# Number_guessing-game-using-C-
+# Number_guessing-game-using-C++
